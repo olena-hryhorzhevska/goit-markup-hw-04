@@ -402,9 +402,12 @@ img {
 
 .footer-section {
   display: flex;
-  gap: 120px;
+  align-items: baseline;
 }
 
+.footer-one {
+  margin-right: 120px;
+}
 .footer-p-two {
   font-weight: 500;
   font-size: 16px;
