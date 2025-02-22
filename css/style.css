@@ -397,19 +397,13 @@ img {
   padding: 100px 0;
 }
 
-.footer-section {
+.container-f {
   display: flex;
-  flex-direction: row;
   align-items: baseline;
 }
 
 .footer-one {
   margin-right: 120px;
-}
-
-.footer-two {
-  display: flex;
-  flex-direction: column;
 }
 
 .footer-p-two {
