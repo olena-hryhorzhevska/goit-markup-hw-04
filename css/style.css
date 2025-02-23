@@ -235,7 +235,7 @@ img {
 
 .icon-item {
   background-color: #f4f4fd;
-  height: 120px;
+  height: 112px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -358,7 +358,7 @@ img {
   row-gap: 48px;
 }
 
-.overlay {
+p.overlay {
   position: absolute;
   top: 0;
   left: 0;
