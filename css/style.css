@@ -397,7 +397,7 @@ img {
   padding: 100px 0;
 }
 
-.container-f {
+.footer .container {
   display: flex;
   align-items: baseline;
 }
